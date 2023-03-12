@@ -1,7 +1,7 @@
 # Object Detection using YOLOv1 
 
 ## RESULTS!!!
-![image](https://user-images.githubusercontent.com/117746681/224552716-9ee4c0c1-9c6b-49e0-a7b5-dd2054a50623.png)
+![image](https://user-images.githubusercontent.com/117746681/224552837-b5539e57-96c6-4c46-99ae-eebd8d61546d.png)
 ![image](https://user-images.githubusercontent.com/117746681/224552590-502db736-0412-4823-ad5b-c92555d9d848.png)
 ![image](https://user-images.githubusercontent.com/117746681/224552639-9addc03a-7649-4013-acce-545103c2e4dd.png)
 
